@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31727.386
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeRepository", "LeetCodeRepository\LeetCodeRepository.csproj", "{69A20954-5DE7-49AE-AD58-5CFA7AF75E24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeRepository", "LeetCodeRepository\LeetCodeRepository.csproj", "{69A20954-5DE7-49AE-AD58-5CFA7AF75E24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{C09199DE-C506-4A17-85E3-DAE876771BB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{C09199DE-C506-4A17-85E3-DAE876771BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParanthesisCheckerUsingStack", "ParanthesisCheckerUsingStack\ParanthesisCheckerUsingStack.csproj", "{1F9456B3-78F3-4DCD-9D10-C19FA42C9CF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParanthesisCheckerUsingStack", "ParanthesisCheckerUsingStack\ParanthesisCheckerUsingStack.csproj", "{1F9456B3-78F3-4DCD-9D10-C19FA42C9CF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubStringCheck", "SubStringCheck\SubStringCheck.csproj", "{F63BB34F-BC61-4F46-819C-350DDB0BB16E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubStringCheck", "SubStringCheck\SubStringCheck.csproj", "{F63BB34F-BC61-4F46-819C-350DDB0BB16E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{7C07B4A4-C68C-4602-AE9E-06FFCB78A1BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{F63BB34F-BC61-4F46-819C-350DDB0BB16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F63BB34F-BC61-4F46-819C-350DDB0BB16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F63BB34F-BC61-4F46-819C-350DDB0BB16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C07B4A4-C68C-4602-AE9E-06FFCB78A1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C07B4A4-C68C-4602-AE9E-06FFCB78A1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C07B4A4-C68C-4602-AE9E-06FFCB78A1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C07B4A4-C68C-4602-AE9E-06FFCB78A1BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
